@@ -3,7 +3,7 @@ link to Colab FIle - https://colab.research.google.com/drive/1uq6pcGC_a3sgIcfcL9
 
 link to Tableu - https://app.powerbi.com/view?r=eyJrIjoiY2JlODBjYTItMDlmMy00MDM4LTgzYTItN2NlNDVlMGZlYzczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-link to Presentation Slides - 
+link to Presentation Slides - https://docs.google.com/presentation/d/1YKBLWrGq6FAg1CE2HT5rk5BPLhFI0DavFqyNAStQhnU/edit#slide=id.g762f01053a55d460_12
 
 link to Development Note
 
