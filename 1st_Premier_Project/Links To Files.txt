@@ -5,5 +5,5 @@ link to Tableu - https://app.powerbi.com/view?r=eyJrIjoiY2JlODBjYTItMDlmMy00MDM4
 
 link to Presentation Slides - https://docs.google.com/presentation/d/1YKBLWrGq6FAg1CE2HT5rk5BPLhFI0DavFqyNAStQhnU/edit#slide=id.g762f01053a55d460_12
 
-link to Development Note
+link to Development Note - https://docs.google.com/document/d/1bOfYx_NeRVsQOOP6ATUlj5wh4mww4Pq6En-kre427Tw/edit
 
